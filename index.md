@@ -1,6 +1,5 @@
-## Welcome to My World!
-
-###《门前》
+## Welcome to My World！
+### 《门前》
 #### 我多么希望，
 #### 有一个门口，
 #### 早晨，
